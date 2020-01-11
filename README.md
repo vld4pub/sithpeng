@@ -2,7 +2,7 @@
 <footer>
 </body>
 <div id="container">
-    <img src="https://github.com/vld4pub/sithpeng/blob/master/sith.peng.jpg">
+    <img src="/sith.peng.jpg">
 </div>
 
 #container {
