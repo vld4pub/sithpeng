@@ -1,3 +1,6 @@
+</footer>
+<footer>
+</body>
 <div id="container">
     <img src="https://github.com/vld4pub/sithpeng/blob/master/sith.peng.jpg">
 </div>
@@ -11,3 +14,4 @@
     vertical-align:middle;
     max-height:100%;
 }
+<body>
